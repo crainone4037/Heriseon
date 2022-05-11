@@ -13,4 +13,5 @@ CSS/html:
 
 •Alot of elements shared the same properties So I added them to the parent Divs to be less repetative. 
 
+• I added alt attributes for accessibility
 
