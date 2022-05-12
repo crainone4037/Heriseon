@@ -15,3 +15,6 @@ CSS/html:
 
 • I added alt attributes for accessibility
 
+• I added the a href for privacy,security ... about. 
+ 
+
